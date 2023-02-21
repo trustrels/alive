@@ -1,0 +1,170 @@
+;; 000003-20
+;; 3 сбор
+
+2023-02-03
+  Income:Donations:Finance    -300    ; donor: Оксана Александровна К.
+    ; time: 23:07
+  Income:Donations:Finance    -200    ; donor: Анастасия Константиновна Ж.
+    ; time: 23:09
+  Income:Donations:Finance    -200    ; donor: Наталия Георгиевна С.
+    ; time: 23:13
+  Income:Donations:Finance    -500    ; donor: Софья Сергеевна С.
+    ; time: 23:25
+  Income:Donations:Finance    -100    ; donor: Валентина Николаевна А.
+    ; time: 23:41
+  Income:Donations:Finance    -200    ; donor: Алевтина Васильевна Ч.
+    ; time: 23:55
+  Assets:Finance:AVA:Sberbank:Mir3597     1500
+
+2023-02-04
+  Income:Donations:Finance    -200    ; donor: Ирина Леонидовна К.
+    ; time: 00:30
+  Income:Donations:Finance    -300    ; donor: Елена Ивановна С.
+    ; time: 01:24
+  Income:Donations:Finance    -200    ; donor: Анжелика Александровна Ж.
+    ; time: 04:56
+  Income:Donations:Finance    -200    ; donor: Лариса Михайловна Ч.
+    ; time: 05:23
+  Income:Donations:Finance    -100    ; donor: Елена Андреевна Ч.
+    ; time: 05:55
+  Income:Donations:Finance    -150    ; donor: Наталия Васильевна П.
+    ; time: 06:28
+  Income:Donations:Finance    -300    ; donor: Владимир Юрьевич А.
+    ; time: 07:25
+  Income:Donations:Finance    -200    ; donor: Алиса Юрьевна С.
+    ; time: 07:28
+  Income:Donations:Finance    -300    ; donor: Татьяна Петровна С.
+    ; time: 07:30
+  Income:Donations:Finance    -300    ; donor: Ксения Евгениевна С.
+    ; time: 07:45
+  Income:Donations:Finance    -150    ; donor: Ольга Николаевна А.
+    ; time: 07:39
+  Income:Donations:Finance    -300    ; donor: Татьяна Геннадиевна О.
+    ; time: 07:58
+  Income:Donations:Finance   -1000    ; donor: Лариса Владимировна М.
+    ; time: 08:08
+  Income:Donations:Finance    -200    ; donor: Ольга Александровна К.
+    ; time: 08:15
+  Income:Donations:Finance    -300    ; donor: Людмила Викторовна С.
+    ; time: 08:43
+  Income:Donations:Finance    -200    ; donor: Марина Николаевна А.
+    ; time: 08:51
+  Income:Donations:Finance    -100    ; donor: Светлана Геннадиевна Р.
+    ; time: 08:53
+  Income:Donations:Finance    -500    ; donor: Анастасия Юрьевна С.
+    ; time: 09:00
+  Income:Donations:Finance    -400    ; donor: Наталия Витальевна К.
+    ; time: 09:03
+  Income:Donations:Finance    -100    ; donor: Надежда Левонтьевна С.
+    ; time: 09:04
+  Income:Donations:Finance    -500    ; donor: Екатерина Сергеевна О.
+    ; time: 09:12
+  Income:Donations:Finance    -200    ; donor: Наталья Александровна С. (ВТБ)
+    ; time: 09:37:08
+  Income:Donations:Finance    -500    ; donor: Светлана Викторовна Ч.
+    ; time: 09:43
+  Income:Donations:Finance    -300    ; donor: Екатерина Петровна Р.
+    ; time: 09:44
+  Income:Donations:Finance    -300    ; donor: Екатерина Владимировна К.
+    ; time: 10:07
+  Income:Donations:Finance    -300    ; donor: Екатерина Сергеевна Н.
+    ; time: 10:09
+  Income:Donations:Finance    -400    ; donor: Александра Алексеевна Ч.
+    ; time: 10:09
+  Income:Donations:Finance    -300    ; donor: Татьяна Владимировна Х.
+    ; time: 10:10
+  Income:Donations:Finance    -500    ; donor: Елена Леонидовна С.
+    ; time: 10:29
+  Income:Donations:Finance    -500    ; donor: Елена Витальевна Л.
+    ; time: 11:33
+  Income:Donations:Finance    -100    ; donor: Никита З. (Тинькофф Банк)
+  Assets:Finance:AVA:Tinkoff:MC9878                 100
+    ; time: 11:48
+  Assets:Finance:AVA:Tinkoff:MC9878                -100
+  Assets:Finance:AVA:Sberbank:Mir3597               100
+    ; datetime: 2023-02-20T01:47:08+03:00:00
+  Income:Donations:Finance    -500    ; donor: ??? (ВТБ)
+    ; time: 12:06
+  Income:Donations:Finance    -100    ; donor: Оксана Георгиевна П.
+    ; time: 12:16
+  Income:Donations:Finance    -200    ; donor: Олеся Георгиевна П.
+    ; time: 12:17
+  Income:Donations:Finance     -50    ; donor: Мария Павловна М.
+    ; time: 12:29
+  Income:Donations:Finance    -200    ; donor: Галина Викторовна Е.
+    ; time: 12:32
+  Income:Donations:Finance    -500    ; donor: Светлана Викторовна О.
+    ; time: 12:35
+  Income:Donations:Finance    -300    ; donor: Елена Ивановна С.
+    ; time: 12:39
+  Income:Donations:Finance    -163    ; donor: Мария Дмитриевна Т.
+    ; time: 13:52
+  Income:Donations:Finance    -200    ; donor: Надежда Семеновна А.
+    ; time: 14:44
+  Income:Donations:Finance    -300    ; donor: Анастасия Юрьевна Ф.
+    ; time: 14:56
+  Income:Donations:Finance    -300    ; donor: Елена Викторовна К.
+    ; time: 14:57
+  Income:Donations:Finance    -300    ; donor: Виктория Александровна О.
+    ; time: 15:06
+  Income:Donations:Finance    -300    ; donor: Анна Сергеевна Ш.
+    ; time: 15:23
+  Income:Donations:Finance    -100    ; donor: Людмила Аркадиевна П.
+    ; time: 16:02
+  Income:Donations:Finance    -300    ; donor: Елена Игоревна К.
+    ; time: 16:17
+  Income:Donations:Finance    -300    ; donor: Ирина Юрьевна Л.
+    ; time: 16:25
+  Income:Donations:Finance    -400    ; donor: Татьяна Викторовна М.
+    ; time: 16:25
+  Income:Donations:Finance    -200    ; donor: Вера Николаевна М.
+    ; time: 16:38
+  Income:Donations:Finance    -200    ; donor: Людмила Ивановна С.
+    ; time: 17:35
+  Income:Donations:Finance    -500    ; donor: Валентина Геннадьевна М.
+    ; time: 17:49
+  Income:Donations:Finance    -200    ; donor: Анастасия Николаевна М.
+    ; time: 17:58
+  Income:Donations:Finance    -300    ; donor: Елена Алексеевна Ш.
+    ; time: 18:06
+  Income:Donations:Finance    -300    ; donor: ??? (с карты на карту)
+    ; time: 19:19
+  Income:Donations:Finance    -200    ; donor: Татьяна Степановна П.
+    ; time: 19:46
+  Income:Donations:Finance    -200    ; donor: Ирина Павловна В.
+    ; time: 20:11
+  Income:Donations:Finance    -200    ; donor: Нина Анатольевна З.
+    ; time: 21:05
+  Income:Donations:Finance    -200    ; donor: Ирина Владимировна М.
+    ; time: 21:12
+  Income:Donations:Finance    -300    ; donor: Елена Юрьевна Щ.
+    ; time: 21:43
+  Assets:Finance:AVA:Sberbank:Mir3597     16613
+
+2023-02-05
+  Income:Donations:Finance    -200    ; donor: Марина Васильевна В.
+    ; time: 03:42
+  Income:Donations:Finance    -249.21 ; donor: ??? (Тинькофф Банк)
+    ; time: 08:55
+  Income:Donations:Finance    -200    ; donor: Дарья Алексеевна К.
+    ; time: 09:26
+  Income:Donations:Finance    -100    ; donor: Наталья Константиновна Д.
+    ; time: 10:09
+  Income:Donations:Finance    -300    ; donor: Надежда Сергеевна Б.
+    ; time: 10:37
+  Income:Donations:Finance    -500    ; donor: Наталья Леонидовна Ш.
+    ; time: 10:41
+  Income:Donations:Finance    -200    ; donor: Ирина Александровна Ч. (ВТБ)
+    ; time: 11:15:27
+  Income:Donations:Finance    -200    ; donor: Мария Александровна Ф.
+    ; time: 11:35
+  Income:Donations:Finance    -300    ; donor: Артем Геннадьевич П.
+    ; time: 12:30
+  Income:Donations:Finance    -300    ; donor: Ирина Юрьевна К.
+    ; time: 14:14
+  Assets:Finance:AVA:Sberbank:Mir3597  2549.21
+
+2023-03-15
+  Income:Donations:Things       -1 фен  ; donor: Алёна К.
+  Assets:Things:AVA             1 фен
+;; Total: 20762.21
